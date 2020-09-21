@@ -10,7 +10,7 @@ void main() {
 	scanf("%d",&num);
 	res = num % 2;
 	
-	if (res == 0)
+	if (res == 0)// hoac viet la !res nhu nhau
 	     printf("The number is Even");
 	else
 	     printf("The number is Odd");

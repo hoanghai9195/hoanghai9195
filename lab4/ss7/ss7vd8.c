@@ -20,11 +20,11 @@ int main() {
 	        case 'o':
 	        case 'u':
 	        	printf("\nCharacter is a vowel");
-	        	break;
+	        	//break;
 	        case 'z':
 	        	printf("\nLast Alphabet (z) was entered");
 	        	break;
-	        default :
+	        	default :
 	        	printf("\nCharacter is a consonant");
 	        	break;
 	        	

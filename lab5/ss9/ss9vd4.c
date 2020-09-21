@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main() {
+	int i, j, k;
+	i = 0;
+	printf("Enter no . of row\n");
+	scanf("%d",&i);
+	printf("\n");
+	for (j = 0;j <= i; j++){
+		printf("\n");
+	for (k = 0;k < j; k++)//vong lap for ben trong
+	    printf("*");
+	}
+	return 0;
+}
