@@ -27,10 +27,13 @@ int division(float a,float b)	{
 
 int main() {
 	float a,b,c;
+	int i;
 	printf("Enter two number :");
 	scanf("%f %f",&a,&b);
 	printf("Moi an cac so 3 2 1 0  tuong ung voi cac chuc nang tinh *tong *hieu *nhan *chia 2 so \n");
-	printf("ban chon mot cach tinh tuong ung :");
+    for (i=0;i<100;i++){
+	
+	printf("\n\nban chon mot cach tinh tuong ung :");
 	scanf("%f",&c);
 	
 	if (c <= 3){
@@ -61,7 +64,7 @@ int main() {
 			printf("Moi nhap lai");
 		}
 	}
-	
+}
 	
 	
 
