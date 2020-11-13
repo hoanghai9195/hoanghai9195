@@ -1,0 +1,27 @@
+body{
+    font-family: Georgia;
+}
+header{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+.about-me{
+    font-size: 20px;
+    opacity: 50%transparent;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+h1{color: black;
+}
+ul{font-size: smaller;
+
+}
+title{
+    font-weight: bold;
+}
+p{
+    color: white;
+    font-size: 60px;
+}
