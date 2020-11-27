@@ -25,12 +25,12 @@ img {
 	border: 0;
 }
 #header {
-	background: url("../images/logo.jpg") repeat-x left top;
+	background: url(../images/bg-gray.png) repeat-x left top;
 	height: 360px;
 	position: relative;
 	width: 100%;
 	z-index: 2;
-
+	background-image: url("");
 }
 #header div {
 	margin: 0 auto;
