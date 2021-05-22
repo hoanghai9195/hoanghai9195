@@ -1,0 +1,6 @@
+Các chức năng:
+-Bệnh Nhân(Mã bệnh nhân,họ tên..) khi vào viện sẽ được đưa đến phòng khám bênh để chữa trị và viết vao hồ sơ bệnh nhân.
+-Nhân viên điều dưỡng của phòng khám bệnh đó sẽ phải đọc hồ sơ bệnh án mà bệnh nhân vừa viết cộng với hồ sơ bệnh án cũ(nếu có) để biết tình trạng của bệnh nhân như nào.
+-Nếu bệnh nhân đó đã có hồ sơ bệnh án cũ còn lưu thì nhân viên phải câp nhật với hồ sơ mới viết của bệnh nhân để đưa thuoc cho bệnh nhân.
+-Sâu đó nhân viên điều dưỡng sẽ nhờ nhân viên nhập liệu của phòng hành chính cập nhập hồ sơ mới cho bệnh nhân nếu đã có hồ sơ cũ hoac tạo mới cho bệnh nhân nếu bệnh nhân đó chưa có.
+-Sâu đó hồ sơ mới sẽ được lưu trong phòng hồ sơ bệnh nhân của bệnh viên đó.
