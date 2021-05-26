@@ -1,0 +1,7 @@
+D:\New folder (2)\session2\bt8\bin\Debug\bt8.exe.config
+D:\New folder (2)\session2\bt8\bin\Debug\bt8.exe
+D:\New folder (2)\session2\bt8\bin\Debug\bt8.pdb
+D:\New folder (2)\session2\bt8\obj\Debug\bt8.csproj.CoreCompileInputs.cache
+D:\New folder (2)\session2\bt8\obj\Debug\bt8.exe
+D:\New folder (2)\session2\bt8\obj\Debug\bt8.pdb
+D:\New folder (2)\session2\bt8\obj\Debug\bt8.csprojAssemblyReference.cache

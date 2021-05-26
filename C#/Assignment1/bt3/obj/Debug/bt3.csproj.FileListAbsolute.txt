@@ -1,0 +1,7 @@
+D:\New folder (2)\session2\bt3\obj\Debug\bt3.csprojAssemblyReference.cache
+D:\New folder (2)\session2\bt3\obj\Debug\bt3.csproj.CoreCompileInputs.cache
+D:\New folder (2)\session2\bt3\bin\Debug\bt3.exe.config
+D:\New folder (2)\session2\bt3\bin\Debug\bt3.exe
+D:\New folder (2)\session2\bt3\bin\Debug\bt3.pdb
+D:\New folder (2)\session2\bt3\obj\Debug\bt3.exe
+D:\New folder (2)\session2\bt3\obj\Debug\bt3.pdb

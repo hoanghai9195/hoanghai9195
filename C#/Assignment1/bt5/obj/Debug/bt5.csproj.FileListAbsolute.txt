@@ -1,0 +1,6 @@
+D:\New folder (2)\session2\bt5\bin\Debug\bt5.exe.config
+D:\New folder (2)\session2\bt5\bin\Debug\bt5.exe
+D:\New folder (2)\session2\bt5\bin\Debug\bt5.pdb
+D:\New folder (2)\session2\bt5\obj\Debug\bt5.csproj.CoreCompileInputs.cache
+D:\New folder (2)\session2\bt5\obj\Debug\bt5.exe
+D:\New folder (2)\session2\bt5\obj\Debug\bt5.pdb

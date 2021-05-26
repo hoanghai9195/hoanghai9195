@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace bt7
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Xin chao");
+            Console.WriteLine("Tam biet");
+            Console.ReadLine();
+        }
+    }
+}

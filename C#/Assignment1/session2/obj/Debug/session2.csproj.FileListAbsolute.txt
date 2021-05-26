@@ -1,0 +1,7 @@
+D:\New folder (2)\session2\session2\obj\Debug\session2.csprojAssemblyReference.cache
+D:\New folder (2)\session2\session2\obj\Debug\session2.csproj.CoreCompileInputs.cache
+D:\New folder (2)\session2\session2\bin\Debug\session2.exe.config
+D:\New folder (2)\session2\session2\bin\Debug\session2.exe
+D:\New folder (2)\session2\session2\bin\Debug\session2.pdb
+D:\New folder (2)\session2\session2\obj\Debug\session2.exe
+D:\New folder (2)\session2\session2\obj\Debug\session2.pdb
