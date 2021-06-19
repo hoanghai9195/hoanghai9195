@@ -1,0 +1,7 @@
+D:\New folder (2)\EXAM.AP\EXAM.AP\bin\Debug\EXAM.AP.exe.config
+D:\New folder (2)\EXAM.AP\EXAM.AP\bin\Debug\EXAM.AP.exe
+D:\New folder (2)\EXAM.AP\EXAM.AP\bin\Debug\EXAM.AP.pdb
+D:\New folder (2)\EXAM.AP\EXAM.AP\obj\Debug\EXAM.AP.csprojAssemblyReference.cache
+D:\New folder (2)\EXAM.AP\EXAM.AP\obj\Debug\EXAM.AP.csproj.CoreCompileInputs.cache
+D:\New folder (2)\EXAM.AP\EXAM.AP\obj\Debug\EXAM.AP.exe
+D:\New folder (2)\EXAM.AP\EXAM.AP\obj\Debug\EXAM.AP.pdb

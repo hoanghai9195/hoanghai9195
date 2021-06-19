@@ -1,0 +1,7 @@
+D:\New folder (2)\EXAMP.AP2\EXAMP.AP2\bin\Debug\EXAMP.AP2.exe.config
+D:\New folder (2)\EXAMP.AP2\EXAMP.AP2\bin\Debug\EXAMP.AP2.exe
+D:\New folder (2)\EXAMP.AP2\EXAMP.AP2\bin\Debug\EXAMP.AP2.pdb
+D:\New folder (2)\EXAMP.AP2\EXAMP.AP2\obj\Debug\EXAMP.AP2.csprojAssemblyReference.cache
+D:\New folder (2)\EXAMP.AP2\EXAMP.AP2\obj\Debug\EXAMP.AP2.csproj.CoreCompileInputs.cache
+D:\New folder (2)\EXAMP.AP2\EXAMP.AP2\obj\Debug\EXAMP.AP2.exe
+D:\New folder (2)\EXAMP.AP2\EXAMP.AP2\obj\Debug\EXAMP.AP2.pdb
